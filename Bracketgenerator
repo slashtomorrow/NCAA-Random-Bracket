@@ -1,7 +1,7 @@
 rm(list=ls())
 detach()
 setwd("[set your working directory here]")
-firstround <- read.csv("ncaafirstrd.csv")
+firstround <- read.csv("[whatever filename you assign the firstround csv].csv")
 regions <- levels(firstround$region)
 seed <- 6
 ##First Round Games##
