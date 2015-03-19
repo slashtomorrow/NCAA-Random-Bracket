@@ -1,33 +1,66 @@
-high seed	low seed region
-1	16	Midwest
-2	15	Midwest
-3	14	Midwest
-4	13	Midwest
-5	12	Midwest
-6	11	Midwest
-7	10	Midwest
-8	9	Midwest
-1	16	West
-2	15	West
-3	14	West
-4	13	West
-5	12	West
-6	11	West
-7	10	West
-8	9	West
-1	16	South
-2	15	South
-3	14	South
-4	13	South
-5	12	South
-6	11	South
-7	10	South
-8	9	South
-1	16	East
-2	15	East
-3	14	East
-4	13	East
-5	12	East
-6	11	East
-7	10	East
-8	9	East
+seed,	region
+1,	Midwest
+2,	Midwest
+3,	Midwest
+4,	Midwest
+5,	Midwest
+6,	Midwest
+7,	Midwest
+8,	Midwest
+9,	Midwest
+10,	Midwest
+11,	Midwest
+12,	Midwest
+13,	Midwest
+14,	Midwest
+15,	Midwest
+16,	Midwest
+1,	West
+2,	West
+3,	West
+4,	West
+5,	West
+6,	West
+7,	West
+8,	West
+9,	West
+10,	West
+11,	West
+12,	West
+13,	West
+14,	West
+15,	West
+16,	West
+1,	East
+2,	East
+3,	East
+4,	East
+5,	East
+6,	East
+7,	East
+8,	East
+9,	East
+10,	East
+11,	East
+12,	East
+13,	East
+14,	East
+15,	East
+16,	East
+1,	South
+2,	South
+3,	South
+4,	South
+5,	South
+6,	South
+7,	South
+8,	South
+9,	South
+10,	South
+11,	South
+12,	South
+13,	South
+14,	South
+15,	South
+16,	South
+
